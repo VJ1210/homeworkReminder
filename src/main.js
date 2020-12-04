@@ -104,7 +104,7 @@ const top_Menu_Data = [
       { role: 'togglefullscreen' }
     ]
   },
-  {
+  { 
     label: 'Window',
     submenu: [
       { role: 'minimize' },
